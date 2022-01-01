@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 abbdcd15b3c16f324fe0152cff9c1bd00e9fbf3f Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793703270 +0500	commit (initial): chore: import upstream open-source source snapshot
+abbdcd15b3c16f324fe0152cff9c1bd00e9fbf3f 1d9632e778e73642c902b5309c425f979d1f2392 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704363 +0500	commit: fix(startup): stop when certificate trust update fails
+1d9632e778e73642c902b5309c425f979d1f2392 3d44260d8edca0b231388681cbb5e51f08ce0d6c Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704364 +0500	commit: docs(development): document source setup and restore upstream license notices
+3d44260d8edca0b231388681cbb5e51f08ce0d6c 3491b664f5c21100399dfa8200895a4ec202ac36 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793763991 +0500	commit: Final commit
+3491b664f5c21100399dfa8200895a4ec202ac36 d60427e9a5e25d19e22c97ecb9dc181c1194d2aa Alinur Dzjeenbekov <alinur@example.com> 1664969646 +0600	filter-branch: rewrite
